@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-Visit Code Stories on:
+Visit **Code Stories** on:
 https://rogerboesch.github.io/
